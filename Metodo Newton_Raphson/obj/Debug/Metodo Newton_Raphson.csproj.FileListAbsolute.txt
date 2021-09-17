@@ -1,0 +1,20 @@
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo_Newton_Raphson.Form1.resources
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo_Newton_Raphson.Properties.Resources.resources
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\bin\Debug\Metodo Newton_Raphson.exe.config
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\bin\Debug\Metodo Newton_Raphson.exe
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\bin\Debug\Metodo Newton_Raphson.pdb
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.exe
+C:\Users\mathe\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.pdb
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.csprojAssemblyReference.cache
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo_Newton_Raphson.Form1.resources
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo_Newton_Raphson.Properties.Resources.resources
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.csproj.GenerateResource.cache
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.csproj.CoreCompileInputs.cache
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.exe
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\obj\Debug\Metodo Newton_Raphson.pdb
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\bin\Debug\Metodo Newton_Raphson.exe.config
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\bin\Debug\Metodo Newton_Raphson.exe
+D:\Backup\source\repos\Metodo Newton_Raphson\Metodo Newton_Raphson\bin\Debug\Metodo Newton_Raphson.pdb
