@@ -6,5 +6,5 @@ Desenvolvido para Atividade do 4º Semestre da Faculdade de Análise e Desenvolv
 
 
 
-Fiquem a vontade para sugestões! :happy:
+Fiquem a vontade para sugestões! :smile:
 
